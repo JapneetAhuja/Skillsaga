@@ -1,5 +1,8 @@
+/* SkillSaga Main Styles */
+
 .App {
-  text-align: center;
+  /* Remove text-align center as it interferes with our Tailwind components */
+  text-align: left;
 }
 
 .App-logo {
